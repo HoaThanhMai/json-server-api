@@ -1,0 +1,16 @@
+{
+    "joblist": [
+        {
+            "id": 1,
+            "name": "Job1"
+        },
+        {
+            "id": 2,
+            "name": "Job2"
+        },
+        {
+            "id": 3,
+            "name": "Job3"
+        }
+    ]
+}
