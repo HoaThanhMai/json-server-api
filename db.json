@@ -3,32 +3,32 @@
         {
             "id": "0",
             "name": ".Net Core",
-            "teacher_id": "01HHHDAR5E6J6XYXGT3KD40R32"
+            "teacher_id": "1"
         },
         {
             "id": "1",
             "name": "Python",
-            "teacher_id": "01HHHDAR5KAM5JQ62HVCR796B0"
+            "teacher_id": "4"
         },
         {
             "id": "2",
             "name": "ReactJS",
-            "teacher_id": "01HHHDAR57VD5JFVKM72WYN0C7"
+            "teacher_id": "6"
         }
     ],
 
     "class_member": [
         {
             "id": "1",
-            "students": ["0", "1"]
-        },
-        {
-            "id": "1",
             "students": ["0", "2"]
         },
         {
+            "id": "1",
+            "students": ["7", "2"]
+        },
+        {
             "id": "2",
-            "students": ["1", "2"]
+            "students": ["0", "8"]
         }
     ],
 
