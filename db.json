@@ -1,40 +1,40 @@
 {
     "class": [
         {
-            "id": "0",
+            "id": 0,
             "name": ".Net Core",
-            "teacher_id": "1"
+            "teacher_id": 1
         },
         {
-            "id": "1",
+            "id": 1,
             "name": "Python",
-            "teacher_id": "4"
+            "teacher_id": 4
         },
         {
-            "id": "2",
+            "id": 2,
             "name": "ReactJS",
-            "teacher_id": "6"
+            "teacher_id": 6
         }
     ],
 
     "class_member": [
         {
-            "id": "1",
-            "students": ["0", "2"]
+            "id": 0,
+            "students": [0, 2]
         },
         {
-            "id": "1",
-            "students": ["7", "2"]
+            "id": 1,
+            "students": [7, 2]
         },
         {
-            "id": "2",
-            "students": ["0", "8"]
+            "id": 2,
+            "students": [0, 8]
         }
     ],
 
     "member": [
         {
-            "id": "0",
+            "id": 0,
             "first_name": "Olivie",
             "last_name": "Coulston",
             "dob": "12/9/2023",
@@ -47,7 +47,7 @@
             "password": "rP3<m8<Qngs"
         },
         {
-            "id": "1",
+            "id": 1,
             "first_name": "Gavin",
             "last_name": "Eminson",
             "dob": "1/14/2023",
@@ -60,7 +60,7 @@
             "password": "nX4_)GzpM"
         },
         {
-            "id": "2",
+            "id": 2,
             "first_name": "Silvain",
             "last_name": "Gammage",
             "dob": "1/16/2023",
@@ -73,7 +73,7 @@
             "password": "cE5!T@fx7DI'H"
         },
         {
-            "id": "3",
+            "id": 3,
             "first_name": "Bayard",
             "last_name": "Fennelly",
             "dob": "12/17/2022",
@@ -86,7 +86,7 @@
             "password": "wE6~wVf26c|3F"
         },
         {
-            "id": "4",
+            "id": 4,
             "first_name": "Orsa",
             "last_name": "Pinnere",
             "dob": "6/18/2023",
@@ -99,7 +99,7 @@
             "password": "oX3**E8z>,~YYHf"
         },
         {
-            "id": "5",
+            "id": 5,
             "first_name": "Nathalia",
             "last_name": "Greensall",
             "dob": "2/7/2023",
@@ -112,7 +112,7 @@
             "password": "gE1\">&/7Z"
         },
         {
-            "id": "6",
+            "id": 6,
             "first_name": "Dorena",
             "last_name": "Niccols",
             "dob": "8/6/2023",
@@ -125,7 +125,7 @@
             "password": "tC7<YVp/n(@Fq8<"
         },
         {
-            "id": "7",
+            "id": 7,
             "first_name": "Brittni",
             "last_name": "Ferneley",
             "dob": "7/4/2023",
@@ -138,7 +138,7 @@
             "password": "mF8?9)oz"
         },
         {
-            "id": "8",
+            "id": 8,
             "first_name": "Miquela",
             "last_name": "Connichie",
             "dob": "1/17/2023",
@@ -151,7 +151,7 @@
             "password": "nB6/%Rz\"u8_"
         },
         {
-            "id": "9",
+            "id": 9,
             "first_name": "Sigvard",
             "last_name": "Doherty",
             "dob": "5/13/2023",
